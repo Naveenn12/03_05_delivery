@@ -24,7 +24,7 @@ env:
 
 jobs:
   integration:
-    uses: Naveenn12/03_05_integration/blob/main/.github/workflows/python-app.yml@main
+    uses: Naveenn12/03_05_integration/.github/workflows/python-app.yml@main
     permissions:
       contents: read
       
